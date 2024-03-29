@@ -1,0 +1,6 @@
+pyTelegramBotAPI==4.16.1
+asyncio==3.4.3
+aiogram==3.4.1
+aiomysql==0.2.0
+pillow==10.2.0
+cryptography==42.0.5
